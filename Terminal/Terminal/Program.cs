@@ -30,6 +30,7 @@ namespace Terminal
                 input = Console.ReadLine();
                 output = input.ToLower();
                 Console.Title = output + " - Terminal";
+                Console.WriteLine();
                 if (output == "help")
                 {
                     Console.WriteLine("This command isn't finished yet. Sorry!\n:(");
@@ -55,9 +56,17 @@ namespace Terminal
                         Console.WriteLine("\nThis directory is invalid.");
                     }
                 }
+                else if (output == "directory list")
+                {
+                    Console.WriteLine("Directory of " + dir + "\n");
+                    foreach (string file in Directory.EnumerateFiles(dir, "*.*", SearchOption.AllDirectories))
+                    {
+                        Console.WriteLine(file);
+                    }
+                }
                 else
                 {
-                    Console.WriteLine("\nThis command is invalid.");
+                    Console.WriteLine("This command is invalid.");
                     Console.Title = "Terminal";
                 }
             }
