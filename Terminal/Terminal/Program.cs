@@ -26,7 +26,7 @@ namespace Terminal
             {
                 temp = null;
                 Console.WriteLine();
-                Console.Write(username + "@" + pcName + " / " + dir + "\n   > ");
+                Console.Write(username + "@" + pcName + " | " + dir + "\n   > ");
                 input = Console.ReadLine();
                 output = input.ToLower();
                 Console.Title = output + " - Terminal";
