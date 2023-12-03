@@ -1,0 +1,14 @@
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\net8.0\Terminal.exe
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\net8.0\Terminal.deps.json
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\net8.0\Terminal.runtimeconfig.json
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\net8.0\Terminal.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\net8.0\Terminal.pdb
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\Terminal.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\refint\Terminal.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\Terminal.pdb
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\Terminal.genruntimeconfig.cache
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\net8.0\ref\Terminal.dll

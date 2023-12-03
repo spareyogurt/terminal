@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxSykHny6C+vHdDDDLSBC/q7IeFsUrP+tqr/EMRlFv0pNWYOl17avgmVL3GufISA/kd4EiAeMsaW40YT2OrPlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ibrahim\\source\\repos\\Terminal\\Terminal\\Terminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ibrahim\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}
