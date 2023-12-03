@@ -1,7 +1,0 @@
-C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\Terminal.exe.config
-C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\Terminal.exe
-C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Debug\Terminal.pdb
-C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\Terminal.csproj.AssemblyReference.cache
-C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\Terminal.csproj.CoreCompileInputs.cache
-C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\Terminal.exe
-C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Debug\Terminal.pdb
