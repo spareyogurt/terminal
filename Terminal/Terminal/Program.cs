@@ -30,12 +30,16 @@ namespace Terminal
                 input = Console.ReadLine();
                 output = input.ToLower();
                 Console.Title = output + " - Terminal";
-                Console.WriteLine();
+                if (output != "clear")
+                {
+                    Console.WriteLine();
+                }
                 if (output == "help")
                 {
-                    Console.WriteLine("This command isn't finished yet. Sorry!\n:(");
+                    Console.WriteLine("write - Prints the input.");
+                    Console.WriteLine("clear - Clears all the text onscreen.");
                 }
-                else if (output == "write")
+                else if (output == "print")
                 {
                     temp = Console.ReadLine();
                     Console.WriteLine("\n" + temp);
@@ -59,10 +63,20 @@ namespace Terminal
                 else if (output == "directory list")
                 {
                     Console.WriteLine("Directory of " + dir + "\n");
-                    foreach (string file in Directory.EnumerateFiles(dir, "*.*", SearchOption.AllDirectories))
+                    foreach (string folder in Directory.EnumerateFiles(dir, "*.*", SearchOption.TopDirectoryOnly))
                     {
-                        Console.WriteLine(file);
+                        Console.WriteLine(folder);
                     }
+                }
+                else if (output == "directory make")
+                {
+                    temp = Console.ReadLine();
+                    Directory.CreateDirectory(dir + "/" + temp);
+                }
+                else if (output == "directory delete")
+                {
+                    temp = Console.ReadLine();
+                    Directory.Delete(dir + "/" + temp);
                 }
                 else
                 {
