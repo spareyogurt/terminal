@@ -36,8 +36,13 @@ namespace Terminal
                 }
                 if (output == "help")
                 {
-                    Console.WriteLine("write - Prints the input.");
-                    Console.WriteLine("clear - Clears all the text onscreen.");
+                    Console.WriteLine("print -                            Prints the input.");
+                    Console.WriteLine("clear -                Clears all the text onscreen.");
+                    Console.WriteLine("directory -         Operations relating directories.");
+                    Console.WriteLine("   change -            Change the working directory.");
+                    Console.WriteLine("     list - List all files in the working directory.");
+                    Console.WriteLine("     make -                        Make a directory.");
+                    Console.WriteLine("   delete -                      Delete a directory.");
                 }
                 else if (output == "print")
                 {
