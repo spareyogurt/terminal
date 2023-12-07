@@ -7,7 +7,7 @@ If you'd like to contribute for whatever reason, you may by following the **buil
 ## Build Guide
 1. Download [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you haven't already.
 2. Download [Visual Studio](https://visualstudio.microsoft.com/) and set it up for .NET desktop applications if you haven't already. Maybe Visual Studio Code works as well, I'm not really sure, haha.
-3. Open up Command Prompt, or whatever terminal application you use, change the directory to whatever you prefer.
+3. Open up Command Prompt, or whatever terminal application you use, change the directory to whatever you prefer. For example, I would use the desktop, therefore I would type `cd C:\Users\James\Desktop` to change my directory to my desktop.
 4. Run `git clone https://github.com/spareyogurt/terminal`
 5. There you go! You're now ready to contribute to the Terminal project!
 ## License
