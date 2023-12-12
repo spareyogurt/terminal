@@ -1,0 +1,17 @@
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Release\net7.0-windows10.0.22621.0\Terminal.exe
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Release\net7.0-windows10.0.22621.0\Terminal.deps.json
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Release\net7.0-windows10.0.22621.0\Terminal.runtimeconfig.json
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Release\net7.0-windows10.0.22621.0\Terminal.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Release\net7.0-windows10.0.22621.0\Terminal.pdb
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Release\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\bin\Release\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.csproj.CopyComplete
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\refint\Terminal.dll
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.pdb
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\Terminal.genruntimeconfig.cache
+C:\Users\Ibrahim\source\repos\Terminal\Terminal\obj\Release\net7.0-windows10.0.22621.0\ref\Terminal.dll
