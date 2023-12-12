@@ -2,8 +2,6 @@
 ## About
 A really simple command-line interpreter application written in C#. I strongly recommend to <strong>NOT</strong> use this.</br>
 I made this simple app because I was bored, I learned a lot!
-## Contribute
-If you'd like to contribute for whatever reason, you may by following the **build guide.**
 ## Build Guide
 1. Download [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) if you haven't already.
 2. Download [Git](https://git-scm.com/) if you haven't already.
